@@ -125,6 +125,13 @@
 </p>
 
 
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
+###
 
 - 📫 How to reach me **divyanipatel817@gmail.com**
 
