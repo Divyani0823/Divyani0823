@@ -1,6 +1,6 @@
-![logo](https://giphy.com/gifs/to-do-list-devrix-teamdevrix-Y0b2MpUTfnrUa3jIM7)
+#![logo](https://giphy.com/gifs/to-do-list-devrix-teamdevrix-Y0b2MpUTfnrUa3jIM7)
 
-<h3 align="center">An AI Engineer, passionate about Data Science and AI. </h3>
+<h3 align="center">Hey There, I am Divyani Patel, an AI Engineer, passionate about Data Science and AI. </h3>
 
 # 🚀 Core Expertise
 
@@ -135,7 +135,7 @@
 
 - 📫 How to reach me **divyanipatel817@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14oPCH_la_tIFmD0crwJ4SkTDi4-ZMhkx/view?usp=sharing](https://drive.google.com/file/d/14oPCH_la_tIFmD0crwJ4SkTDi4-ZMhkx/view?usp=sharing)
+#- 📄 Know about my experiences [https://drive.google.com/file/d/14oPCH_la_tIFmD0crwJ4SkTDi4-ZMhkx/view?usp=sharing](https://drive.google.com/file/d/14oPCH_la_tIFmD0crwJ4SkTDi4-ZMhkx/view?usp=sharing)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=shruti-shreya01&icon=2&color=0)](https://visitcount.itsvg.in)
